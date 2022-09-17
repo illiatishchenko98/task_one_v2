@@ -1,0 +1,29 @@
+body {
+  background-color: blanchedalmond;
+  font-size: 10pt;
+}
+h1 {
+  color: red;
+  font-size: 12pt;
+  text-align: center;
+}
+.paragraph2 {
+  text-align: center;
+  color: red;
+  font-size: 12pt;
+}
+.paragraph1 {
+  font-weight: 200;
+  font-size: 12px;
+}
+.italic {
+  font-style: italic;
+}
+.p3 {
+  text-align: center;
+  color: red;
+}
+.p4 {
+  font-size: 12px;
+  font-weight: 200;
+}
